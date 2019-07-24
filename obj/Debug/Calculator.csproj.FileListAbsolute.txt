@@ -1,0 +1,15 @@
+D:\BOZIA\_Application_Calculator\Calculator\bin\Debug\Calculator.exe.config
+D:\BOZIA\_Application_Calculator\Calculator\bin\Debug\Calculator.exe
+D:\BOZIA\_Application_Calculator\Calculator\bin\Debug\Calculator.pdb
+D:\BOZIA\_Application_Calculator\Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache
+D:\BOZIA\_Application_Calculator\Calculator\obj\Debug\MainWindow.g.cs
+D:\BOZIA\_Application_Calculator\Calculator\obj\Debug\App.g.cs
+D:\BOZIA\_Application_Calculator\Calculator\obj\Debug\Calculator_MarkupCompile.cache
+D:\BOZIA\_Application_Calculator\Calculator\obj\Debug\Calculator_MarkupCompile.lref
+D:\BOZIA\_Application_Calculator\Calculator\obj\Debug\MainWindow.baml
+D:\BOZIA\_Application_Calculator\Calculator\obj\Debug\Calculator.g.resources
+D:\BOZIA\_Application_Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+D:\BOZIA\_Application_Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+D:\BOZIA\_Application_Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+D:\BOZIA\_Application_Calculator\Calculator\obj\Debug\Calculator.exe
+D:\BOZIA\_Application_Calculator\Calculator\obj\Debug\Calculator.pdb

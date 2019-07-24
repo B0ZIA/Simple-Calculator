@@ -1,0 +1,28 @@
+﻿<Window x:Class="Calculator.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Calculator"
+        mc:Ignorable="d"
+        Title="Calculator" Width="314.824" MaxWidth="332.824" MaxHeight="344.37" MinWidth="332.824" MinHeight="343" Padding="-2,0,0,0" ResizeMode="NoResize">
+    <Grid Margin="0,10,0,0">
+        <TextBox x:Name="tbWynik" HorizontalAlignment="Left" Height="40" TextWrapping="Wrap" VerticalAlignment="Top" Width="307" Margin="10,10,0,0" TextChanged="TextBox_TextChanged" Foreground="Black" FontSize="20" Background="White"/>
+        <Button x:Name="b8" Content="8" HorizontalAlignment="Left" VerticalAlignment="Top" Width="68" Margin="91,63,0,0" Height="45" Click="B8_Click" Foreground="White" FontSize="18"/>
+        <Button x:Name="b7" Content="7" VerticalAlignment="Top" Margin="18,63,241,0" Height="45" Click="B7_Click" Foreground="White" FontSize="18"/>
+        <Button x:Name="b9" Content="9" HorizontalAlignment="Left" VerticalAlignment="Top" Width="68" Margin="164,63,0,0" Height="45" Click="B9_Click" Foreground="White" FontSize="18"/>
+        <Button x:Name="bDodawanie" Content="+" HorizontalAlignment="Left" VerticalAlignment="Top" Width="68" Margin="237,63,0,0" Height="45" Click="BDodawanie_Click" Foreground="White" FontSize="18"/>
+        <Button x:Name="b5" Content="5" HorizontalAlignment="Left" VerticalAlignment="Top" Width="68" Margin="91,122,0,0" Height="45" Click="B5_Click" Foreground="White" FontSize="18"/>
+        <Button x:Name="b4" Content="4" HorizontalAlignment="Left" VerticalAlignment="Top" Width="68" Margin="18,122,0,0" Height="45" Click="B4_Click" Foreground="White" FontSize="18"/>
+        <Button x:Name="b6" Content="6" HorizontalAlignment="Left" VerticalAlignment="Top" Width="68" Margin="164,122,0,0" Height="45" Click="B6_Click" Foreground="White" FontSize="18"/>
+        <Button x:Name="bOdejmowanie" Content="-" HorizontalAlignment="Left" VerticalAlignment="Top" Width="68" Margin="237,122,0,0" Height="45" Click="BOdejmowanie_Click" Foreground="White" FontSize="18"/>
+        <Button x:Name="b2" Content="2" HorizontalAlignment="Left" VerticalAlignment="Top" Width="68" Margin="91,183,0,0" Height="45" Click="B2_Click" Foreground="White" FontSize="18"/>
+        <Button x:Name="b1" Content="1" HorizontalAlignment="Left" VerticalAlignment="Top" Width="68" Margin="18,183,0,0" Height="45" Click="B1_Click" Foreground="White" FontSize="18"/>
+        <Button x:Name="b3" Content="3" HorizontalAlignment="Left" VerticalAlignment="Top" Width="68" Margin="164,183,0,0" Height="45" Click="B3_Click" Foreground="White" FontSize="18"/>
+        <Button x:Name="bMnozenie" Content="*" HorizontalAlignment="Left" VerticalAlignment="Top" Width="68" Margin="237,183,0,0" Height="45" Click="BMnozenie_Click" Foreground="White" FontSize="18"/>
+        <Button x:Name="bWynik" Content="=" HorizontalAlignment="Left" VerticalAlignment="Top" Width="141" Margin="91,245,0,0" Height="45" Click="BWynik_Click" Foreground="White" FontSize="18"/>
+        <Button x:Name="b0" Content="0" HorizontalAlignment="Left" VerticalAlignment="Top" Width="68" Margin="18,245,0,0" Height="45" Click="B0_Click" Foreground="White" FontSize="18"/>
+        <Button x:Name="bDzielenie" Content="/" HorizontalAlignment="Left" VerticalAlignment="Top" Width="68" Margin="237,245,0,0" Height="45" Click="BDzielenie_Click" Foreground="White" FontSize="18"/>
+
+    </Grid>
+</Window>
